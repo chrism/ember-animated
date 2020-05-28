@@ -84,7 +84,7 @@ export default class AnimatedContainerComponent extends Component {
   onInitialRender = false;
 
   /**
-   * Use a custom tag for the container. Defaults to div.
+   * Use a custom motion for the container. Defaults to Resize.
     @argument motion
     @type String
   */
